@@ -1,0 +1,30 @@
+{
+  "@context": "https://raw.githubusercontent.com/michielhildebrand/linkedart_test/master/data/linked_art.json", 
+  "id": "https://vangoghworldwide.org/data/periods/saint-remy-1889-1890", 
+  "type": "Activity",
+  "_label": "Period in the life of Vincent van Gogh",
+  "identified_by": [
+    {
+      "type": "Name", 
+      "content": "Saint-Rémy (1889 - 90)"
+    }
+  ], 
+  "classified_as": [],
+  "timespan": {
+    "type": "TimeSpan", 
+    "begin_of_the_begin": "1889-05-31T00:00:00Z",
+    "end_of_the_end": "1890-05-31T00:00:00Z"
+  },
+  "carried_out_by": [
+    {
+      "id": "http://vocab.getty.edu/page/ulan/500115588",
+      "_label": "Vincent van Gogh"
+    }
+  ],
+  "took_place_at": [
+    {
+      "id": "http://vocab.getty.edu/page/tgn/7009654",
+      "_label": "Saint-Rémy"
+    }
+  ]
+}
