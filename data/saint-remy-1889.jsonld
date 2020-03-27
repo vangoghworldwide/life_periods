@@ -1,6 +1,6 @@
 {
   "@context": "https://raw.githubusercontent.com/michielhildebrand/linkedart_test/master/data/linked_art.json", 
-  "id": "https://vangoghworldwide.org/data/periods/saint-remy-1889-1890", 
+  "id": "https://vangoghworldwide.org/data/period/saint-remy-1889", 
   "type": "Activity",
   "_label": "Period in the life of Vincent van Gogh",
   "identified_by": [
