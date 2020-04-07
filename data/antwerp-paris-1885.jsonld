@@ -17,17 +17,17 @@
   },
   "carried_out_by": [
     {
-      "id": "http://vocab.getty.edu//ulan/500115588",
+      "id": "http://vocab.getty.edu/ulan/500115588",
       "_label": "Vincent van Gogh"
     }
   ],
   "took_place_at": [
     {
-      "id": "http://vocab.getty.edu//tgn/7007856",
+      "id": "http://vocab.getty.edu/tgn/7007856",
       "_label": "Antwerp"
     },
     {
-      "id": "http://vocab.getty.edu//tgn/7008038",
+      "id": "http://vocab.getty.edu/tgn/7008038",
       "_label": "Paris"
     }
 
