@@ -6,14 +6,14 @@
   "identified_by": [
     {
       "type": "Name", 
-      "content": "Antwerp / Paris (1885 - 88)"
+      "content": "Antwerp/Paris (1885 - 88)"
     }
   ], 
   "classified_as": [],
   "timespan": {
     "type": "TimeSpan", 
-    "begin_of_the_begin": "1885-11-30T00:00:00Z",
-    "end_of_the_end": "1886-02-28T00:00:00Z"
+    "begin_of_the_begin": "1885-11-24T00:00:00Z",
+    "end_of_the_end": "1888-02-19T00:00:00Z"
   },
   "carried_out_by": [
     {

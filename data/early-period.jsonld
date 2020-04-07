@@ -1,30 +1,24 @@
 {
   "@context": "https://raw.githubusercontent.com/michielhildebrand/linkedart_test/master/data/linked_art.json", 
-  "id": "https://vangoghworldwide.org/data/period/saint-remy-1889", 
+  "id": "https://vangoghworldwide.org/data/period/early_period-1881", 
   "type": "Activity",
   "_label": "Period in the life of Vincent van Gogh",
   "identified_by": [
     {
-      "type": "Name", 
-      "content": "Saint-Rémy (1889 - 90)"
+      "type": "Name",
+      "content": "Early period (- 1878)"
     }
-  ], 
+  ],
   "classified_as": [],
   "timespan": {
     "type": "TimeSpan", 
-    "begin_of_the_begin": "1889-05-09T00:00:00Z",
-    "end_of_the_end": "1890-05-16T00:00:00Z"
+    "begin_of_the_begin": "1860-01-01T00:00:00Z", 
+    "end_of_the_end": "1878-04-30T00:00:00Z"
   },
   "carried_out_by": [
     {
       "id": "http://vocab.getty.edu/page/ulan/500115588",
       "_label": "Vincent van Gogh"
-    }
-  ],
-  "took_place_at": [
-    {
-      "id": "http://vocab.getty.edu/page/tgn/7009654",
-      "_label": "Saint-Rémy"
     }
   ]
 }
