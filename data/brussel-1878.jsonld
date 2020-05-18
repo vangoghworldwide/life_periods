@@ -25,6 +25,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/7007868", 
       "_label": "Brussel"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/1026382", 
+      "_label": "Cuesmes"
     }
   ]
 }
