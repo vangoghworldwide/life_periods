@@ -20,5 +20,38 @@
       "id": "http://vocab.getty.edu/ulan/500115588",
       "_label": "Vincent van Gogh"
     }
-  ]
+  ],
+  "took_place_at": [
+    {
+      "id": "http://vocab.getty.edu/tgn/7006952",
+      "_label": "Amsterdam"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7006798",
+      "_label": "Dordrecht"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/1047843",
+      "_label": "Helvoirt"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7012090",
+      "_label": "Isleworth"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7016995",
+      "_label": "Laeken"
+    },    
+    {
+      "id": "http://vocab.getty.edu/tgn/7011781",
+      "_label": "London"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7011562",
+      "_label": "Ramsgate"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7027263",
+      "_label": "Welwyn"
+    }
 }
