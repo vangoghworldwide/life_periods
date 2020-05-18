@@ -29,6 +29,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/1026382", 
       "_label": "Cuesmes"
+    },
+     {
+      "id": "http://vocab.getty.edu/tgn/4012066", 
+      "_label": "Wasmes"
     }
   ]
 }
