@@ -25,6 +25,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/7006835", 
       "_label": "Nuenen"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7006842", 
+      "_label": "Eindhoven"
     }
   ]
 }
