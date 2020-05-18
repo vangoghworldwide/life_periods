@@ -29,6 +29,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/1026382", 
       "_label": "Nieuw-Amsterdam"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/1047858", 
+      "_label": "Hoogeveen"
     }
   ]
 }
