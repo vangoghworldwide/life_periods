@@ -25,6 +25,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/7003614", 
       "_label": "Drenthe"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/1026382", 
+      "_label": "Nieuw-Amsterdam"
     }
   ]
 }
