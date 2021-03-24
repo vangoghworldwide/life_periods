@@ -1,5 +1,5 @@
 {
-  "@context": "https://raw.githubusercontent.com/michielhildebrand/linkedart_test/master/data/linked_art.json", 
+  "@context": "https://raw.githubusercontent.com/vangoghworldwide/linkedart/master/linked-art.json", 
   "id": "https://vangoghworldwide.org/data/period/antwerp_paris-1885", 
   "type": "Activity",
   "_label": "Period in the life of Vincent van Gogh",
