@@ -29,6 +29,10 @@
     {
       "id": "http://vocab.getty.edu/tgn/7008792",
       "_label": "Les-Saintes-Maries-de-la-Mer"
+    },
+    {
+      "id": "http://vocab.getty.edu/tgn/7008783",
+      "_label": "Montmajour"
     }
   ]
 }
